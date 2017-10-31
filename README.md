@@ -36,3 +36,9 @@
 | 29 | united | [連合した](http://ejje.weblio.jp/content/united) |
 | 30 | found | [設立する](http://ejje.weblio.jp/content/found) |
 | 31 | mask | [覆面](http://ejje.weblio.jp/content/mask) |
+
+## ライセンス
+
+[![クリエイティブ・コモンズ・ライセンス](https://i.creativecommons.org/l/by/4.0/88x31.png)](http://creativecommons.org/licenses/by/4.0/)
+
+これらの作品は[クリエイティブ・コモンズ 表示 4.0 国際 ライセンス](http://creativecommons.org/licenses/by/4.0/)の下に提供されています。
