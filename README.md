@@ -1,41 +1,41 @@
 # [inktober](http://mrjakeparker.com/inktober)
 [inktober](http://mrjakeparker.com/inktober)は世界中のアーティストが10月中毎日一枚インクで書いたものをSNS上にアップするというイベントで、これは自分の参加記録です。
 
-## [2017年公式プロンプト](http://mrjakeparker.com/inktober)
+## [2018年公式プロンプト](http://mrjakeparker.com/inktober)
 
 | 日 | 英語 | 日本語 |
 | --- | --- | --- |
-| 1 | swift | [迅速な](http://ejje.weblio.jp/content/swift) |
-| 2 | divided | [分割された](http://ejje.weblio.jp/content/divided) |
-| 3 | poison | [毒](http://ejje.weblio.jp/content/poison) |
-| 4 | underwarter | [水中の](http://ejje.weblio.jp/content/underwater) |
-| 5 | long | [長い](http://ejje.weblio.jp/content/long) |
-| 6 | sword | [剣](http://ejje.weblio.jp/content/sword) |
-| 7 | shy | [恥ずかしがり屋な](http://ejje.weblio.jp/content/shy) |
-| 8 | crooked | [屈曲した](http://ejje.weblio.jp/content/crooked) |
-| 9 | screech | [キーキー鳴く](http://ejje.weblio.jp/content/screech) |
-| 10 | gigantic | [巨大な](http://ejje.weblio.jp/content/gigantic) |
-| 11 | run | [走る](http://ejje.weblio.jp/content/run) |
-| 12 | shattered | [粉々](http://ejje.weblio.jp/content/shattered) |
-| 13 | teeming | [うようよするほどの](http://ejje.weblio.jp/content/teeming) |
-| 14 | fierce | [獰猛な](http://ejje.weblio.jp/content/fierce) |
-| 15 | mysterious | [神秘的な](http://ejje.weblio.jp/content/mysterious) |
-| 16 | fat | [まるまると太った](http://ejje.weblio.jp/content/fat) |
-| 17 | graceful | [優美な](http://ejje.weblio.jp/content/graceful) |
-| 18 | filthy | [不潔な](http://ejje.weblio.jp/content/filthy) |
-| 19 | cloud | [雲、もうもうとたちこめるもの](http://ejje.weblio.jp/content/cloud) |
-| 20 | deep | [深い](http://ejje.weblio.jp/content/deep) |
-| 21 | furious | [怒り狂った](http://ejje.weblio.jp/content/furious) |
-| 22 | trail | [引きずった跡](http://ejje.weblio.jp/content/trail) |
-| 23 | juicy | [汁の多い](http://ejje.weblio.jp/content/juicy) |
-| 24 | blind | [目の不自由な](http://ejje.weblio.jp/content/blind) |
-| 25 | ship | [大きい船](http://ejje.weblio.jp/content/ship) |
-| 26 | squeak | [チューチュー鳴く、きしむ](http://ejje.weblio.jp/content/squeak) |
-| 27 | climb | [登る](http://ejje.weblio.jp/content/climb) |
-| 28 | fall | [落ちる](http://ejje.weblio.jp/content/fall) |
-| 29 | united | [連合した](http://ejje.weblio.jp/content/united) |
-| 30 | found | [設立する](http://ejje.weblio.jp/content/found) |
-| 31 | mask | [覆面](http://ejje.weblio.jp/content/mask) |
+| 1 | poisonous | [有毒](https://ejje.weblio.jp/content/poisonous) |
+| 2 | tranquil | [静かな](https://ejje.weblio.jp/content/tranquil) |
+| 3 | roasted | [ロースト](https://ejje.weblio.jp/content/roasted) |
+| 4 | spell | [スペル](https://ejje.weblio.jp/content/spell) |
+| 5 | chicken | [チキン](https://ejje.weblio.jp/content/chicken) |
+| 6 | drooling | [よだれ](https://ejje.weblio.jp/content/drooling) |
+| 7 | exhausted | [疲れ](https://ejje.weblio.jp/content/exhausted) |
+| 8 | star | [星](https://ejje.weblio.jp/content/star) |
+| 9 | precious | [貴重](https://ejje.weblio.jp/content/precious) |
+| 10 | flowing | [流れ](https://ejje.weblio.jp/content/flowing) |
+| 11 | cruel | [酷いです](https://ejje.weblio.jp/content/cruel) |
+| 12 | whale | [鯨](https://ejje.weblio.jp/content/whale) |
+| 13 | guarded | [警備](https://ejje.weblio.jp/content/guarded) |
+| 14 | clock | [クロック](https://ejje.weblio.jp/content/clock) |
+| 15 | weak | [弱い](https://ejje.weblio.jp/content/weak) |
+| 16 | angular | [角度](https://ejje.weblio.jp/content/angular) |
+| 17 | swollen | [腫れ](https://ejje.weblio.jp/content/swollen) |
+| 18 | bottle | [ボトル](https://ejje.weblio.jp/content/bottle) |
+| 19 | scorched | [焦げ](https://ejje.weblio.jp/content/scorched) |
+| 20 | breakable | [壊れやすいです](https://ejje.weblio.jp/content/breakable) |
+| 21 | drain | [ドレイン](https://ejje.weblio.jp/content/drain) |
+| 22 | expensive | [高価な](https://ejje.weblio.jp/content/expensive) |
+| 23 | muddy | [泥状](https://ejje.weblio.jp/content/muddy) |
+| 24 | chop | [チョップ](https://ejje.weblio.jp/content/chop) |
+| 25 | prickly | [とげだらけの](https://ejje.weblio.jp/content/prickly) |
+| 26 | stretch | [ストレッチ](https://ejje.weblio.jp/content/stretch) |
+| 27 | thunder | [サンダー](https://ejje.weblio.jp/content/thunder) |
+| 28 | gift | [贈り物](https://ejje.weblio.jp/content/gift) |
+| 29 | double | [ダブル](https://ejje.weblio.jp/content/double) |
+| 30 | jolt | [揺さぶります](https://ejje.weblio.jp/content/jolt) |
+| 31 | slice | [スライス](https://ejje.weblio.jp/content/slice) |
 
 ## ライセンス
 
