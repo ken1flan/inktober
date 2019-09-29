@@ -1,41 +1,41 @@
 # [inktober](http://mrjakeparker.com/inktober)
 [inktober](http://mrjakeparker.com/inktober)は世界中のアーティストが10月中毎日一枚インクで書いたものをSNS上にアップするというイベントで、これは自分の参加記録です。
 
-## [2018年公式プロンプト](http://mrjakeparker.com/inktober)
+## [2019年公式プロンプト](http://mrjakeparker.com/inktober)
 
 | 日 | 英語 | 日本語 |
 | --- | --- | --- |
-| 1 | poisonous | [有毒](https://ejje.weblio.jp/content/poisonous) |
-| 2 | tranquil | [静かな](https://ejje.weblio.jp/content/tranquil) |
-| 3 | roasted | [ロースト](https://ejje.weblio.jp/content/roasted) |
-| 4 | spell | [スペル](https://ejje.weblio.jp/content/spell) |
-| 5 | chicken | [チキン](https://ejje.weblio.jp/content/chicken) |
-| 6 | drooling | [よだれ](https://ejje.weblio.jp/content/drooling) |
-| 7 | exhausted | [疲れ](https://ejje.weblio.jp/content/exhausted) |
-| 8 | star | [星](https://ejje.weblio.jp/content/star) |
-| 9 | precious | [貴重](https://ejje.weblio.jp/content/precious) |
-| 10 | flowing | [流れ](https://ejje.weblio.jp/content/flowing) |
-| 11 | cruel | [酷いです](https://ejje.weblio.jp/content/cruel) |
-| 12 | whale | [鯨](https://ejje.weblio.jp/content/whale) |
-| 13 | guarded | [警備](https://ejje.weblio.jp/content/guarded) |
-| 14 | clock | [クロック](https://ejje.weblio.jp/content/clock) |
-| 15 | weak | [弱い](https://ejje.weblio.jp/content/weak) |
-| 16 | angular | [角度](https://ejje.weblio.jp/content/angular) |
-| 17 | swollen | [腫れ](https://ejje.weblio.jp/content/swollen) |
-| 18 | bottle | [ボトル](https://ejje.weblio.jp/content/bottle) |
-| 19 | scorched | [焦げ](https://ejje.weblio.jp/content/scorched) |
-| 20 | breakable | [壊れやすいです](https://ejje.weblio.jp/content/breakable) |
-| 21 | drain | [ドレイン](https://ejje.weblio.jp/content/drain) |
-| 22 | expensive | [高価な](https://ejje.weblio.jp/content/expensive) |
-| 23 | muddy | [泥状](https://ejje.weblio.jp/content/muddy) |
-| 24 | chop | [チョップ](https://ejje.weblio.jp/content/chop) |
-| 25 | prickly | [とげだらけの](https://ejje.weblio.jp/content/prickly) |
-| 26 | stretch | [ストレッチ](https://ejje.weblio.jp/content/stretch) |
-| 27 | thunder | [サンダー](https://ejje.weblio.jp/content/thunder) |
-| 28 | gift | [贈り物](https://ejje.weblio.jp/content/gift) |
-| 29 | double | [ダブル](https://ejje.weblio.jp/content/double) |
-| 30 | jolt | [揺さぶります](https://ejje.weblio.jp/content/jolt) |
-| 31 | slice | [スライス](https://ejje.weblio.jp/content/slice) |
+| 1 | ring | [リング](https://ejje.weblio.jp/content/ring) |
+| 2 | mindless | [思慮のありません](https://ejje.weblio.jp/content/mindless) |
+| 3 | bait | [餌](https://ejje.weblio.jp/content/bait) |
+| 4 | freeze | [フリーズ](https://ejje.weblio.jp/content/freeze) |
+| 5 | build | [築きます](https://ejje.weblio.jp/content/build) |
+| 6 | husky | [ハスキー](https://ejje.weblio.jp/content/husky) |
+| 7 | enchanted | [エンチャント](https://ejje.weblio.jp/content/enchanted) |
+| 8 | frail | [弱いです](https://ejje.weblio.jp/content/frail) |
+| 9 | swing | [スイング](https://ejje.weblio.jp/content/swing) |
+| 10 | pattern | [パターン](https://ejje.weblio.jp/content/pattern) |
+| 11 | snow | [雪](https://ejje.weblio.jp/content/snow) |
+| 12 | dragon | [ドラゴン](https://ejje.weblio.jp/content/dragon) |
+| 13 | ash | [灰](https://ejje.weblio.jp/content/ash) |
+| 14 | overgrown | [生い茂っ](https://ejje.weblio.jp/content/overgrown) |
+| 15 | legend | [伝説](https://ejje.weblio.jp/content/legend) |
+| 16 | wild | [野生](https://ejje.weblio.jp/content/wild) |
+| 17 | ornament | [オーナメント](https://ejje.weblio.jp/content/ornament) |
+| 18 | misfit | [ミスフィット](https://ejje.weblio.jp/content/misfit) |
+| 19 | sling | [スリング](https://ejje.weblio.jp/content/sling) |
+| 20 | tread | [トレッド](https://ejje.weblio.jp/content/tread) |
+| 21 | treasure | [宝](https://ejje.weblio.jp/content/treasure) |
+| 22 | ghost | [幽霊](https://ejje.weblio.jp/content/ghost) |
+| 23 | angient | [angient](https://ejje.weblio.jp/content/angient) |
+| 24 | dizzy | [めまいが](https://ejje.weblio.jp/content/dizzy) |
+| 25 | tasty | [おいしい](https://ejje.weblio.jp/content/tasty) |
+| 26 | dark | [闇](https://ejje.weblio.jp/content/dark) |
+| 27 | coat | [コート](https://ejje.weblio.jp/content/coat) |
+| 28 | ride | [ライド](https://ejje.weblio.jp/content/ride) |
+| 29 | injured | [負傷者](https://ejje.weblio.jp/content/injured) |
+| 30 | catch | [キャッチ](https://ejje.weblio.jp/content/catch) |
+| 31 | ripe | [熟しました](https://ejje.weblio.jp/content/ripe) |
 
 ## ライセンス
 
