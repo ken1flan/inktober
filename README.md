@@ -1,5 +1,5 @@
 # [inktober](https://inktober.com/)
-[inktober](http://mrjakeparker.com/inktober)は世界中のアーティストが10月中毎日一枚インクで書いたものをSNS上にアップするというイベントで、これは自分の参加記録です。
+[inktober](https://inktober.com/)は世界中のアーティストが10月中毎日一枚インクで書いたものをSNS上にアップするというイベントで、これは自分の参加記録です。
 
 ## [2019年公式プロンプト](https://inktober.com/rules)
 
