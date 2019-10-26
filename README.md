@@ -27,7 +27,7 @@
 | 20 | tread | [トレッド](https://ejje.weblio.jp/content/tread) |
 | 21 | treasure | [宝](https://ejje.weblio.jp/content/treasure) |
 | 22 | ghost | [幽霊](https://ejje.weblio.jp/content/ghost) |
-| 23 | angient | [angient](https://ejje.weblio.jp/content/angient) |
+| 23 | ancient | [昔の](https://ejje.weblio.jp/content/ancient) |
 | 24 | dizzy | [めまいが](https://ejje.weblio.jp/content/dizzy) |
 | 25 | tasty | [おいしい](https://ejje.weblio.jp/content/tasty) |
 | 26 | dark | [闇](https://ejje.weblio.jp/content/dark) |
