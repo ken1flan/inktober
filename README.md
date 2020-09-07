@@ -1,41 +1,41 @@
 # [inktober](https://inktober.com/)
 [inktober](https://inktober.com/)は世界中のアーティストが10月中毎日一枚インクで書いたものをSNS上にアップするというイベントで、これは自分の参加記録です。
 
-## [2019年公式プロンプト](https://inktober.com/rules)
+## [2020年公式プロンプト](https://inktober.com/rules)
 
 | 日 | 英語 | 日本語 |
 | --- | --- | --- |
-| 1 | ring | [リング](https://ejje.weblio.jp/content/ring) |
-| 2 | mindless | [思慮のありません](https://ejje.weblio.jp/content/mindless) |
-| 3 | bait | [餌](https://ejje.weblio.jp/content/bait) |
-| 4 | freeze | [フリーズ](https://ejje.weblio.jp/content/freeze) |
-| 5 | build | [築きます](https://ejje.weblio.jp/content/build) |
-| 6 | husky | [ハスキー](https://ejje.weblio.jp/content/husky) |
-| 7 | enchanted | [エンチャント](https://ejje.weblio.jp/content/enchanted) |
-| 8 | frail | [弱いです](https://ejje.weblio.jp/content/frail) |
-| 9 | swing | [スイング](https://ejje.weblio.jp/content/swing) |
-| 10 | pattern | [パターン](https://ejje.weblio.jp/content/pattern) |
-| 11 | snow | [雪](https://ejje.weblio.jp/content/snow) |
-| 12 | dragon | [ドラゴン](https://ejje.weblio.jp/content/dragon) |
-| 13 | ash | [灰](https://ejje.weblio.jp/content/ash) |
-| 14 | overgrown | [生い茂っ](https://ejje.weblio.jp/content/overgrown) |
-| 15 | legend | [伝説](https://ejje.weblio.jp/content/legend) |
-| 16 | wild | [野生](https://ejje.weblio.jp/content/wild) |
-| 17 | ornament | [オーナメント](https://ejje.weblio.jp/content/ornament) |
-| 18 | misfit | [ミスフィット](https://ejje.weblio.jp/content/misfit) |
-| 19 | sling | [スリング](https://ejje.weblio.jp/content/sling) |
-| 20 | tread | [トレッド](https://ejje.weblio.jp/content/tread) |
-| 21 | treasure | [宝](https://ejje.weblio.jp/content/treasure) |
-| 22 | ghost | [幽霊](https://ejje.weblio.jp/content/ghost) |
-| 23 | ancient | [昔の](https://ejje.weblio.jp/content/ancient) |
-| 24 | dizzy | [めまいが](https://ejje.weblio.jp/content/dizzy) |
-| 25 | tasty | [おいしい](https://ejje.weblio.jp/content/tasty) |
-| 26 | dark | [闇](https://ejje.weblio.jp/content/dark) |
-| 27 | coat | [コート](https://ejje.weblio.jp/content/coat) |
-| 28 | ride | [ライド](https://ejje.weblio.jp/content/ride) |
-| 29 | injured | [負傷者](https://ejje.weblio.jp/content/injured) |
-| 30 | catch | [キャッチ](https://ejje.weblio.jp/content/catch) |
-| 31 | ripe | [熟しました](https://ejje.weblio.jp/content/ripe) |
+| 1 | fish | [魚](https://ejje.weblio.jp/content/fish) |
+| 2 | wisp | [WISP](https://ejje.weblio.jp/content/wisp) |
+| 3 | bulky | [分厚いです](https://ejje.weblio.jp/content/bulky) |
+| 4 | radio | [無線](https://ejje.weblio.jp/content/radio) |
+| 5 | blade | [刃](https://ejje.weblio.jp/content/blade) |
+| 6 | rodent | [齧歯類](https://ejje.weblio.jp/content/rodent) |
+| 7 | fancy | [ファンシー](https://ejje.weblio.jp/content/fancy) |
+| 8 | teeth | [歯牙](https://ejje.weblio.jp/content/teeth) |
+| 9 | throw | [スロー](https://ejje.weblio.jp/content/throw) |
+| 10 | hope | [望む](https://ejje.weblio.jp/content/hope) |
+| 11 | disgusting | [おぞましいです](https://ejje.weblio.jp/content/disgusting) |
+| 12 | slippery | [つるつる](https://ejje.weblio.jp/content/slippery) |
+| 13 | dune | [砂丘](https://ejje.weblio.jp/content/dune) |
+| 14 | armor | [鎧](https://ejje.weblio.jp/content/armor) |
+| 15 | outpost | [前哨](https://ejje.weblio.jp/content/outpost) |
+| 16 | rocket | [ロケット](https://ejje.weblio.jp/content/rocket) |
+| 17 | storm | [嵐](https://ejje.weblio.jp/content/storm) |
+| 18 | trap | [トラップ](https://ejje.weblio.jp/content/trap) |
+| 19 | dizzy | [めまいが](https://ejje.weblio.jp/content/dizzy) |
+| 20 | coral | [コーラル](https://ejje.weblio.jp/content/coral) |
+| 21 | sleep | [睡眠](https://ejje.weblio.jp/content/sleep) |
+| 22 | chef | [シェフ](https://ejje.weblio.jp/content/chef) |
+| 23 | rip | [RIP](https://ejje.weblio.jp/content/rip) |
+| 24 | dig | [掘る](https://ejje.weblio.jp/content/dig) |
+| 25 | buddy | [バディ](https://ejje.weblio.jp/content/buddy) |
+| 26 | hide | [隠す](https://ejje.weblio.jp/content/hide) |
+| 27 | music | [音楽](https://ejje.weblio.jp/content/music) |
+| 28 | float | [浮く](https://ejje.weblio.jp/content/float) |
+| 29 | shoes | [靴](https://ejje.weblio.jp/content/shoes) |
+| 30 | ominous | [不吉](https://ejje.weblio.jp/content/ominous) |
+| 31 | crawl | [クロール](https://ejje.weblio.jp/content/crawl) |
 
 ## ライセンス
 
