@@ -1,41 +1,42 @@
 # [inktober](https://inktober.com/)
+
 [inktober](https://inktober.com/)は世界中のアーティストが10月中毎日一枚インクで書いたものをSNS上にアップするというイベントで、これは自分の参加記録です。
 
-## [2020年公式プロンプト](https://inktober.com/rules)
+## [2022年公式プロンプト](https://inktober.com/rules)
 
 | 日 | 英語 | 日本語 |
 | --- | --- | --- |
-| 1 | fish | [魚](https://ejje.weblio.jp/content/fish) |
-| 2 | wisp | [WISP](https://ejje.weblio.jp/content/wisp) |
-| 3 | bulky | [分厚いです](https://ejje.weblio.jp/content/bulky) |
-| 4 | radio | [無線](https://ejje.weblio.jp/content/radio) |
-| 5 | blade | [刃](https://ejje.weblio.jp/content/blade) |
-| 6 | rodent | [齧歯類](https://ejje.weblio.jp/content/rodent) |
-| 7 | fancy | [ファンシー](https://ejje.weblio.jp/content/fancy) |
-| 8 | teeth | [歯牙](https://ejje.weblio.jp/content/teeth) |
-| 9 | throw | [スロー](https://ejje.weblio.jp/content/throw) |
-| 10 | hope | [望む](https://ejje.weblio.jp/content/hope) |
-| 11 | disgusting | [おぞましいです](https://ejje.weblio.jp/content/disgusting) |
-| 12 | slippery | [つるつる](https://ejje.weblio.jp/content/slippery) |
-| 13 | dune | [砂丘](https://ejje.weblio.jp/content/dune) |
-| 14 | armor | [鎧](https://ejje.weblio.jp/content/armor) |
-| 15 | outpost | [前哨](https://ejje.weblio.jp/content/outpost) |
-| 16 | rocket | [ロケット](https://ejje.weblio.jp/content/rocket) |
-| 17 | storm | [嵐](https://ejje.weblio.jp/content/storm) |
-| 18 | trap | [トラップ](https://ejje.weblio.jp/content/trap) |
-| 19 | dizzy | [めまいが](https://ejje.weblio.jp/content/dizzy) |
-| 20 | coral | [コーラル](https://ejje.weblio.jp/content/coral) |
-| 21 | sleep | [睡眠](https://ejje.weblio.jp/content/sleep) |
-| 22 | chef | [シェフ](https://ejje.weblio.jp/content/chef) |
-| 23 | rip | [RIP](https://ejje.weblio.jp/content/rip) |
-| 24 | dig | [掘る](https://ejje.weblio.jp/content/dig) |
-| 25 | buddy | [バディ](https://ejje.weblio.jp/content/buddy) |
-| 26 | hide | [隠す](https://ejje.weblio.jp/content/hide) |
-| 27 | music | [音楽](https://ejje.weblio.jp/content/music) |
-| 28 | float | [浮く](https://ejje.weblio.jp/content/float) |
-| 29 | shoes | [靴](https://ejje.weblio.jp/content/shoes) |
-| 30 | ominous | [不吉](https://ejje.weblio.jp/content/ominous) |
-| 31 | crawl | [クロール](https://ejje.weblio.jp/content/crawl) |
+| 1 | gargoyle | [ガーゴイル](https://ejje.weblio.jp/content/gargoyle) |
+| 2 | scurry | [スカリー](https://ejje.weblio.jp/content/scurry) |
+| 3 | bat | [バット](https://ejje.weblio.jp/content/bat) |
+| 4 | scallop | [ホタテ貝](https://ejje.weblio.jp/content/scallop) |
+| 5 | flame | [火炎](https://ejje.weblio.jp/content/flame) |
+| 6 | bouquet | [花束](https://ejje.weblio.jp/content/bouquet) |
+| 7 | trip | [旅行](https://ejje.weblio.jp/content/trip) |
+| 8 | match | [マッチ](https://ejje.weblio.jp/content/match) |
+| 9 | nest | [ネスト](https://ejje.weblio.jp/content/nest) |
+| 10 | crabby | [クラビー](https://ejje.weblio.jp/content/crabby) |
+| 11 | eagle | [鷲](https://ejje.weblio.jp/content/eagle) |
+| 12 | forget | [忘れる](https://ejje.weblio.jp/content/forget) |
+| 13 | kind | [親切](https://ejje.weblio.jp/content/kind) |
+| 14 | empty | [空の](https://ejje.weblio.jp/content/empty) |
+| 15 | armadillo | [アルマジロ](https://ejje.weblio.jp/content/armadillo) |
+| 16 | fowl | [家禽](https://ejje.weblio.jp/content/fowl) |
+| 17 | salty | [塩辛い](https://ejje.weblio.jp/content/salty) |
+| 18 | scrape | [こすります](https://ejje.weblio.jp/content/scrape) |
+| 19 | ponytail | [ポニーテール](https://ejje.weblio.jp/content/ponytail) |
+| 20 | bluff | [ブラフ](https://ejje.weblio.jp/content/bluff) |
+| 21 | bad dog | [悪い犬](https://ejje.weblio.jp/content/bad dog) |
+| 22 | heist | [強盗](https://ejje.weblio.jp/content/heist) |
+| 23 | booger | [ブーガー](https://ejje.weblio.jp/content/booger) |
+| 24 | fairy | [妖精](https://ejje.weblio.jp/content/fairy) |
+| 25 | tempting | [魅力的](https://ejje.weblio.jp/content/tempting) |
+| 26 | ego | [自我](https://ejje.weblio.jp/content/ego) |
+| 27 | snack | [スナック](https://ejje.weblio.jp/content/snack) |
+| 28 | camping | [キャンプ](https://ejje.weblio.jp/content/camping) |
+| 29 | uh-oh | [ええとああ](https://ejje.weblio.jp/content/uh-oh) |
+| 30 | gear | [装備](https://ejje.weblio.jp/content/gear) |
+| 31 | farm | [農場](https://ejje.weblio.jp/content/farm) |
 
 ## ライセンス
 
