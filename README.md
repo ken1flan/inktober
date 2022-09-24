@@ -7,15 +7,15 @@
 | 日 | 英語 | 日本語 |
 | --- | --- | --- |
 | 1 | gargoyle | [ガーゴイル](https://ejje.weblio.jp/content/gargoyle) |
-| 2 | scurry | [スカリー](https://ejje.weblio.jp/content/scurry) |
-| 3 | bat | [バット](https://ejje.weblio.jp/content/bat) |
+| 2 | scurry | [あわてて(ちょこちょこ)走る、小走りに急ぐ](https://ejje.weblio.jp/content/scurry) |
+| 3 | bat | [バット、棍棒、コウモリ](https://ejje.weblio.jp/content/bat) |
 | 4 | scallop | [ホタテ貝](https://ejje.weblio.jp/content/scallop) |
 | 5 | flame | [火炎](https://ejje.weblio.jp/content/flame) |
 | 6 | bouquet | [花束](https://ejje.weblio.jp/content/bouquet) |
 | 7 | trip | [旅行](https://ejje.weblio.jp/content/trip) |
-| 8 | match | [マッチ](https://ejje.weblio.jp/content/match) |
-| 9 | nest | [ネスト](https://ejje.weblio.jp/content/nest) |
-| 10 | crabby | [クラビー](https://ejje.weblio.jp/content/crabby) |
+| 8 | match | [マッチ、試合、似合うもの](https://ejje.weblio.jp/content/match) |
+| 9 | nest | [ねぐら、巣窟、一味](https://ejje.weblio.jp/content/nest) |
+| 10 | crabby | [ご機嫌斜め](https://ejje.weblio.jp/content/crabby) |
 | 11 | eagle | [鷲](https://ejje.weblio.jp/content/eagle) |
 | 12 | forget | [忘れる](https://ejje.weblio.jp/content/forget) |
 | 13 | kind | [親切](https://ejje.weblio.jp/content/kind) |
@@ -25,10 +25,10 @@
 | 17 | salty | [塩辛い](https://ejje.weblio.jp/content/salty) |
 | 18 | scrape | [こすります](https://ejje.weblio.jp/content/scrape) |
 | 19 | ponytail | [ポニーテール](https://ejje.weblio.jp/content/ponytail) |
-| 20 | bluff | [ブラフ](https://ejje.weblio.jp/content/bluff) |
+| 20 | bluff | [絶壁の、ぶっきらぼうな、率直な](https://ejje.weblio.jp/content/bluff) |
 | 21 | bad dog | [悪い犬](https://ejje.weblio.jp/content/bad dog) |
 | 22 | heist | [強盗](https://ejje.weblio.jp/content/heist) |
-| 23 | booger | [ブーガー](https://ejje.weblio.jp/content/booger) |
+| 23 | booger | [鼻くそ](https://ejje.weblio.jp/content/booger) |
 | 24 | fairy | [妖精](https://ejje.weblio.jp/content/fairy) |
 | 25 | tempting | [魅力的](https://ejje.weblio.jp/content/tempting) |
 | 26 | ego | [自我](https://ejje.weblio.jp/content/ego) |
