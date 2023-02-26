@@ -1,42 +1,40 @@
-# [inktober](https://inktober.com/)
+# [inktober](https://inktober.com/) + [ChatGPT](https://openai.com/blog/chatgpt/)
 
-[inktober](https://inktober.com/)は世界中のアーティストが10月中毎日一枚インクで書いたものをSNS上にアップするというイベントで、これは自分の参加記録です。(リアルタイムじゃないけど。)
+[inktober](https://inktober.com/)は世界中のアーティストが10月中毎日一枚インクで書いたものをSNS上にアップするというイベントです。そのルールを元にして、[ChatGPT](https://openai.com/blog/chatgpt/)にお題を出してもらいました。
 
-## [2021年公式プロンプト](https://inktober.com/rules)
+## お題
 
-| 日 | 英語 | 日本語 |
-| --- | --- | --- |
-| 1 | crystal | [結晶](https://ejje.weblio.jp/content/crystal) |
-| 2 | suit | [スーツ](https://ejje.weblio.jp/content/suit) |
-| 3 | vessel | [容器](https://ejje.weblio.jp/content/vessel) |
-| 4 | knot | [結び目](https://ejje.weblio.jp/content/knot) |
-| 5 | raven | [カラス](https://ejje.weblio.jp/content/raven) |
-| 6 | spirit | [精神](https://ejje.weblio.jp/content/spirit) |
-| 7 | fan | [ファン](https://ejje.weblio.jp/content/fan) |
-| 8 | watch | [時計](https://ejje.weblio.jp/content/watch) |
-| 9 | pressure | [プレッシャー](https://ejje.weblio.jp/content/pressure) |
-| 10 | pick | [選ぶ](https://ejje.weblio.jp/content/pick) |
-| 11 | sour | [酸っぱい](https://ejje.weblio.jp/content/sour) |
-| 12 | stuck | [立ち往生](https://ejje.weblio.jp/content/stuck) |
-| 13 | roof | [屋根](https://ejje.weblio.jp/content/roof) |
-| 14 | tick | [ティック](https://ejje.weblio.jp/content/tick) |
-| 15 | helmet | [ヘルメット](https://ejje.weblio.jp/content/helmet) |
-| 16 | compass | [方位磁針](https://ejje.weblio.jp/content/compass) |
-| 17 | collide | [衝突します](https://ejje.weblio.jp/content/collide) |
-| 18 | moon | [月](https://ejje.weblio.jp/content/moon) |
-| 19 | loop | [ループ](https://ejje.weblio.jp/content/loop) |
-| 20 | sprout | [芽](https://ejje.weblio.jp/content/sprout) |
-| 21 | fuzzy | [ファジー](https://ejje.weblio.jp/content/fuzzy) |
-| 22 | open | [開ける](https://ejje.weblio.jp/content/open) |
-| 23 | leak | [リーク](https://ejje.weblio.jp/content/leak) |
-| 24 | extinct | [絶滅](https://ejje.weblio.jp/content/extinct) |
-| 25 | splat | [スプラット](https://ejje.weblio.jp/content/splat) |
-| 26 | connect | [接続](https://ejje.weblio.jp/content/connect) |
-| 27 | spark | [スパーク](https://ejje.weblio.jp/content/spark) |
-| 28 | crispy | [サクサク](https://ejje.weblio.jp/content/crispy) |
-| 29 | patch | [パッチ](https://ejje.weblio.jp/content/patch) |
-| 30 | slither | [スリザー](https://ejje.weblio.jp/content/slither) |
-| 31 | risk | [危険](https://ejje.weblio.jp/content/risk) |
+1. 爪 (Claw)
+1. 鳴き声 (Meow)
+1. ドア (Door)
+1. 眠り (Sleep)
+1. もつれた (Tangled)
+1. リボン (Ribbon)
+1. ジャンプ (Jump)
+1. 細い (Thin)
+1. 獲物 (Prey)
+1. 傘 (Umbrella)
+1. キャンプ (Camp)
+1. 予言 (Prophecy)
+1. ドリフト (Drift)
+1. 友情 (Friendship)
+1. カフェ (Cafe)
+1. 針 (Needle)
+1. 静かな (Quiet)
+1. 雲 (Cloud)
+1. 魔法 (Magic)
+1. 宇宙 (Cosmic)
+1. 乗り物 (Vehicle)
+1. 雑音 (Noise)
+1. 緩い (Loose)
+1. ボヘミアン (Bohemian)
+1. 絆 (Bond)
+1. 赤 (Red)
+1. 祈り (Pray)
+1. 青い (Blue)
+1. 船 (Ship)
+1. 壁 (Wall)
+1. 宝石 (Jewel)
 
 ## ライセンス
 
