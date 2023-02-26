@@ -1,42 +1,42 @@
 # [inktober](https://inktober.com/)
 
-[inktober](https://inktober.com/)は世界中のアーティストが10月中毎日一枚インクで書いたものをSNS上にアップするというイベントで、これは自分の参加記録です。
+[inktober](https://inktober.com/)は世界中のアーティストが10月中毎日一枚インクで書いたものをSNS上にアップするというイベントで、これは自分の参加記録です。(リアルタイムじゃないけど。)
 
-## [2022年公式プロンプト](https://inktober.com/rules)
+## [2021年公式プロンプト](https://inktober.com/rules)
 
 | 日 | 英語 | 日本語 |
 | --- | --- | --- |
-| 1 | gargoyle | [ガーゴイル](https://ejje.weblio.jp/content/gargoyle) |
-| 2 | scurry | [あわてて(ちょこちょこ)走る、小走りに急ぐ](https://ejje.weblio.jp/content/scurry) |
-| 3 | bat | [バット、棍棒、コウモリ](https://ejje.weblio.jp/content/bat) |
-| 4 | scallop | [ホタテ貝](https://ejje.weblio.jp/content/scallop) |
-| 5 | flame | [火炎](https://ejje.weblio.jp/content/flame) |
-| 6 | bouquet | [花束](https://ejje.weblio.jp/content/bouquet) |
-| 7 | trip | [旅行](https://ejje.weblio.jp/content/trip) |
-| 8 | match | [マッチ、試合、似合うもの](https://ejje.weblio.jp/content/match) |
-| 9 | nest | [ねぐら、巣窟、一味](https://ejje.weblio.jp/content/nest) |
-| 10 | crabby | [ご機嫌斜め](https://ejje.weblio.jp/content/crabby) |
-| 11 | eagle | [鷲](https://ejje.weblio.jp/content/eagle) |
-| 12 | forget | [忘れる](https://ejje.weblio.jp/content/forget) |
-| 13 | kind | [親切](https://ejje.weblio.jp/content/kind) |
-| 14 | empty | [空の](https://ejje.weblio.jp/content/empty) |
-| 15 | armadillo | [アルマジロ](https://ejje.weblio.jp/content/armadillo) |
-| 16 | fowl | [家禽](https://ejje.weblio.jp/content/fowl) |
-| 17 | salty | [塩辛い](https://ejje.weblio.jp/content/salty) |
-| 18 | scrape | [こすります](https://ejje.weblio.jp/content/scrape) |
-| 19 | ponytail | [ポニーテール](https://ejje.weblio.jp/content/ponytail) |
-| 20 | bluff | [絶壁の、ぶっきらぼうな、率直な](https://ejje.weblio.jp/content/bluff) |
-| 21 | bad dog | [悪い犬](https://ejje.weblio.jp/content/bad dog) |
-| 22 | heist | [強盗](https://ejje.weblio.jp/content/heist) |
-| 23 | booger | [鼻くそ](https://ejje.weblio.jp/content/booger) |
-| 24 | fairy | [妖精](https://ejje.weblio.jp/content/fairy) |
-| 25 | tempting | [魅力的](https://ejje.weblio.jp/content/tempting) |
-| 26 | ego | [自我](https://ejje.weblio.jp/content/ego) |
-| 27 | snack | [スナック](https://ejje.weblio.jp/content/snack) |
-| 28 | camping | [キャンプ](https://ejje.weblio.jp/content/camping) |
-| 29 | uh-oh | [ええとああ](https://ejje.weblio.jp/content/uh-oh) |
-| 30 | gear | [装備](https://ejje.weblio.jp/content/gear) |
-| 31 | farm | [農場](https://ejje.weblio.jp/content/farm) |
+| 1 | crystal | [結晶](https://ejje.weblio.jp/content/crystal) |
+| 2 | suit | [スーツ](https://ejje.weblio.jp/content/suit) |
+| 3 | vessel | [容器](https://ejje.weblio.jp/content/vessel) |
+| 4 | knot | [結び目](https://ejje.weblio.jp/content/knot) |
+| 5 | raven | [カラス](https://ejje.weblio.jp/content/raven) |
+| 6 | spirit | [精神](https://ejje.weblio.jp/content/spirit) |
+| 7 | fan | [ファン](https://ejje.weblio.jp/content/fan) |
+| 8 | watch | [時計](https://ejje.weblio.jp/content/watch) |
+| 9 | pressure | [プレッシャー](https://ejje.weblio.jp/content/pressure) |
+| 10 | pick | [選ぶ](https://ejje.weblio.jp/content/pick) |
+| 11 | sour | [酸っぱい](https://ejje.weblio.jp/content/sour) |
+| 12 | stuck | [立ち往生](https://ejje.weblio.jp/content/stuck) |
+| 13 | roof | [屋根](https://ejje.weblio.jp/content/roof) |
+| 14 | tick | [ティック](https://ejje.weblio.jp/content/tick) |
+| 15 | helmet | [ヘルメット](https://ejje.weblio.jp/content/helmet) |
+| 16 | compass | [方位磁針](https://ejje.weblio.jp/content/compass) |
+| 17 | collide | [衝突します](https://ejje.weblio.jp/content/collide) |
+| 18 | moon | [月](https://ejje.weblio.jp/content/moon) |
+| 19 | loop | [ループ](https://ejje.weblio.jp/content/loop) |
+| 20 | sprout | [芽](https://ejje.weblio.jp/content/sprout) |
+| 21 | fuzzy | [ファジー](https://ejje.weblio.jp/content/fuzzy) |
+| 22 | open | [開ける](https://ejje.weblio.jp/content/open) |
+| 23 | leak | [リーク](https://ejje.weblio.jp/content/leak) |
+| 24 | extinct | [絶滅](https://ejje.weblio.jp/content/extinct) |
+| 25 | splat | [スプラット](https://ejje.weblio.jp/content/splat) |
+| 26 | connect | [接続](https://ejje.weblio.jp/content/connect) |
+| 27 | spark | [スパーク](https://ejje.weblio.jp/content/spark) |
+| 28 | crispy | [サクサク](https://ejje.weblio.jp/content/crispy) |
+| 29 | patch | [パッチ](https://ejje.weblio.jp/content/patch) |
+| 30 | slither | [スリザー](https://ejje.weblio.jp/content/slither) |
+| 31 | risk | [危険](https://ejje.weblio.jp/content/risk) |
 
 ## ライセンス
 
